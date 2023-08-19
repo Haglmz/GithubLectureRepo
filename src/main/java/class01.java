@@ -12,6 +12,9 @@ public class class01 {
         //Verisyon 3
         System.out.println("verisyon 3 devam");
 
+        //versiyon 6
+        System.out.println("Versiyon 6");
+
 
     }
 
