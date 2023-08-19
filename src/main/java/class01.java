@@ -6,6 +6,8 @@ public class class01 {
         //Versiyon 1
         System.out.println("versiyon biri olusturuyoruz");
 
+        //Versiyon 2
+        System.out.println("versiyon ikiyi olusturuyoruz");
 
 
 
