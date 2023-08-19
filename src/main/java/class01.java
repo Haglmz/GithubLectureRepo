@@ -15,6 +15,11 @@ public class class01 {
         //versiyon 6
         System.out.println("Versiyon 6");
 
+        //Versiyon 7
+        System.out.println("Versiyon 7");
+
+
+
 
     }
 
